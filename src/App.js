@@ -3,7 +3,7 @@ import './App.css';
 
 import PostList from './components/PostList'
 
-import Logo from 'react-svg-loader!./assets/facebook-1.svg';
+import Logo from './assets/facebook-1.svg';
 
 function App() {
   return <>
@@ -15,7 +15,6 @@ function App() {
       <PostList />
     </div>
   </>;
-  //return <img src={profile}></img>
 }
 
 export default App;
