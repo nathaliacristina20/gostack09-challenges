@@ -1,0 +1,32 @@
+{
+  "name": "gobarber-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nathaliacristina20/gobarber-web.git",
+  "author": "Nathalia Cristina <nathaliacristina20@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-react-svg": "^3.0.3",
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "file-loader": "^4.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-svg-loader": "^3.0.3"
+  }
+}
