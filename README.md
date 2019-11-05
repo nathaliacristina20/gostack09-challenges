@@ -18,24 +18,20 @@ cd bootcamp-gostack-facebook
 
 2. Instalando as dependências
 
-Com yarn
 ```
 yarn
 ```
-
-Com NPM
+OU
 ```
 npm install
 ```
 
 3. Executando a aplicação
 
-Com yarn
 ```
 yarn dev
 ```
-
-Com NPM
+OU
 ```
 npm run dev
 ```
