@@ -10,20 +10,34 @@ As informações contidas na interface são estáticas.
 
 ### Como começar
 
-Clonando o projeto
+1. Clonando o projeto
 ```
 git clone https://github.com/nathaliacristina20/bootcamp-gostack-facebook.git 
 cd bootcamp-gostack-facebook
 ```
 
-Instalando as dependências
+2. Instalando as dependências
+
+Com yarn
 ```
 yarn
 ```
 
-Executando a aplicação
+Com NPM
+```
+npm install
+```
+
+3. Executando a aplicação
+
+Com yarn
 ```
 yarn dev
+```
+
+Com NPM
+```
+npm run dev
 ```
 
 ### Pré-requisitos
@@ -36,3 +50,6 @@ yarn dev
 
 Escolhi dar um toque especial inspirado nas cores do tema Drácula famoso entre os desenvolvedores.
 
+<span align="center">
+  <img src="https://uploaddeimagens.com.br/images/002/482/234/original/facebook-theme-dracula.jpg?1572961922" alt="Facebook Drácula" />
+</span>
