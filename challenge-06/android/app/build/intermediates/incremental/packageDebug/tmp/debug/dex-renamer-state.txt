@@ -1,0 +1,4 @@
+#Tue Nov 19 22:40:07 BRT 2019
+base.0=/home/nathalia/github/bootcamp-gostack-react-native-repositorios/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
