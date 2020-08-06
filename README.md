@@ -27,7 +27,10 @@ Este é um repositório contendo todos os desafios realizados durante do Bootcam
 - [09 - Desafio final: Fastfeet, front-end web](https://github.com/nathaliacristina20/gostack09-challenges/tree/feature/readme/bootcamp-gostack-desafio-09)
 - [10 - Desafio final: Fastfeet, mobile](https://github.com/nathaliacristina20/gostack09-challenges/tree/feature/readme/bootcamp-gostack-desafio-10)
 
-Para acessar o repositório do Fastfeet, o desafio final, [clique aqui](https://github.com/nathaliacristina20/fastfeet). 
+Para acessar o repositório do **Fastfeet**, o desafio final, [clique aqui](https://github.com/nathaliacristina20/fastfeet). 
+
+Para o repositório do **Gobarber**, aplicação desenvolvida durante o curso, [acesse aqui](https://github.com/nathaliacristina20/gobarber-web).
+
 ## :scroll: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/nathaliacristina20/gostack09-challenges/blob/master/LICENSE">LICENSE</a> para mais detalhes.
